@@ -6,3 +6,4 @@ android/app/release.keystore
 *.keystore
 *.jks
 *.log
+app/google-service.json
